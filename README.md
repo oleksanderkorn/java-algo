@@ -1,1 +1,1 @@
-# java-for-coding-interviews
+# Session 1: Java for coding interviews 
